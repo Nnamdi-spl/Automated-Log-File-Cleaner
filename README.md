@@ -25,6 +25,10 @@ Specify Directory list in a csv file: <br/>
 <<img src="https://imgur.com/LaALQhC.png" height="80%" width="80%"/>
 <br />
 <br />
+Verify Script:  <br/>
+<img src="https://imgur.com/2kND0q0.png" height="80%" width="80%"/>
+<br />
+<br />
 Create a Scheduled Task: <br/>
 <img src="https://imgur.com/koplAV5.png" height="80%" width="80%"/>
 <br />
